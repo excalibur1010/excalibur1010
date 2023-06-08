@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **NextJS, NestJS, and Laravel**
 
-- 📫 How to reach me **1999excalibur@gmail.com**
-
 - ⚡ Fun fact **I'm Weiboo :3**
 
 <h3 align="left">Languages and Tools:</h3>
