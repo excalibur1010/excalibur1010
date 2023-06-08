@@ -24,11 +24,11 @@ more about me
 
 **⚡ Github Statistics**
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/excalibur1010">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=excalibur1010&theme=dracula&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/excalibur1010">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=excalibur1010&show_icons=true&theme=dracula&line_height=27" alt="**RxDiag** github stats"/>
 </a>
 
