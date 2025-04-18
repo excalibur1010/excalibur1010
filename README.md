@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm RxDiag</h1>
+<h1 align="center">Hi 👋, I'm Abid Zakaria</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=excalibur1010&label=RxDiag&color=0e75b6&style=flat-square" alt="excalibur1010" /> </p>
